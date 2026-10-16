@@ -22,3 +22,15 @@ Solutions are automatically categorized by difficulty and problem name, complete
 │
 └── 🔴 Hard/
     └── ...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
