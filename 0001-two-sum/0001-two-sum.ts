@@ -1,8 +1,9 @@
 function twoSum(nums: number[], target: number): number[] {
     const hashMap = new Map<number, number>();
-    for (let i = 0; i < nums.length; i++) {
-        let targetVal = target - nums[i];
-        if (hashMap.has(targetVal)) return [hashMap.get(targetVal), i];
-        hashMap.set(nums[i], i);
+    for (let i = 0, len = nums.length; i < len; i++) {
+        let currentValue = nums[i];
+        let targetValue = target - currentValue;
+        if (hashMap.has(targetValue)) return [hashMap.get(targetValue), i];
+        hashMap.set(currentValue, i);
     }
 };
