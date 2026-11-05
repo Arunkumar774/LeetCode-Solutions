@@ -29,6 +29,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1929-concatenation-of-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
