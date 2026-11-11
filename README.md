@@ -30,12 +30,14 @@ Solutions are automatically categorized by difficulty and problem name, complete
 | ------- |
 | [0001-two-sum](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +54,12 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
