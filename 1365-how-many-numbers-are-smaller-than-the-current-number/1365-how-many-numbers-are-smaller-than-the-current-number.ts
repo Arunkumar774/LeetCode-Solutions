@@ -1,13 +1,23 @@
 function smallerNumbersThanCurrent(nums: number[]): number[] {
-    let result: number[] = [];
     let n: number = nums.length;
+    const count: number[] = new Array(101).fill(0);
+    const result: number[] = [];
+
+    for (const num of nums) {
+        count[num]++;
+    }
+
+    for (let i = 1; i < 101; i++) {
+        count[i] += count[i - 1];
+    }
+    
     for (let i = 0; i < n; i++) {
-        let count: number = 0;
-        for (let j = 0; j < n; j++) {
-            if (i === j) continue;
-            if (nums[j] < nums[i]) count++;
+        const num = nums[i];
+        if (num === 0) {
+            result.push(0);
+        } else {
+            result.push(count[num - 1]);
         }
-        result.push(count);
     }
 
     return result;
