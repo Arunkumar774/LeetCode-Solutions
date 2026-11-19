@@ -29,6 +29,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -51,6 +52,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -76,5 +78,6 @@ Solutions are automatically categorized by difficulty and problem name, complete
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
