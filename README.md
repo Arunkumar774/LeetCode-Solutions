@@ -29,6 +29,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -80,4 +81,8 @@ Solutions are automatically categorized by difficulty and problem name, complete
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
