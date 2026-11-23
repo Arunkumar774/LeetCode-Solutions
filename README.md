@@ -32,6 +32,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -72,6 +73,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -88,6 +90,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
