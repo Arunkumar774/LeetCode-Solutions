@@ -95,4 +95,8 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
