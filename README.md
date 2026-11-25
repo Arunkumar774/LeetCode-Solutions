@@ -45,6 +45,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,6 +57,7 @@ Solutions are automatically categorized by difficulty and problem name, complete
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
@@ -98,5 +100,6 @@ Solutions are automatically categorized by difficulty and problem name, complete
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Arunkumar774/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
